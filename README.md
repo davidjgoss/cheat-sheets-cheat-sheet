@@ -1,4 +1,4 @@
-# cheat-sheets-cheat-sheet
+# Cheat Sheets Cheat Sheet
 
 > Collection of cheat sheets and other quick resources for various software topics
 
