@@ -6,6 +6,7 @@
 
 - Regular Expressions - [Regexr](https://regexr.com/)
 - Markdown - [Mastering Markdown (GitHub)](https://guides.github.com/features/mastering-markdown/)
+- Gherkin - [Gherkin Reference](https://cucumber.io/docs/gherkin/reference/)
 
 ## Tools
 
