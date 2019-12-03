@@ -28,4 +28,4 @@
 ## HTTP
 
 - Status - [List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
-- Caching - [Cache-Control for Civilians (Harry Roberts](https://csswizardry.com/2019/03/cache-control-for-civilians/)
+- Caching - [Cache-Control for Civilians (Harry Roberts)](https://csswizardry.com/2019/03/cache-control-for-civilians/)
