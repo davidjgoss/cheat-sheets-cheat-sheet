@@ -12,6 +12,7 @@
 
 - Git - [Oh Shit, Git!?!](https://ohshitgit.com/)
 - Docker - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
+- IDEA - [IntelliJ Keymap](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
 
 ## JavaScript
 
