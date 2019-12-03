@@ -17,3 +17,6 @@
 
 - JSON Schema - [Understanding JSON Schema](https://json-schema.org/understanding-json-schema/index.html)
 
+## CSS
+
+- Flexbox - [A Complete Guide to Flexbox (CSS-Tricks)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
