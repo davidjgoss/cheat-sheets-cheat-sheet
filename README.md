@@ -5,6 +5,7 @@
 ## General
 
 - Regular Expressions - [Regexr](https://regexr.com/)
+- Markdown - [Mastering Markdown (GitHub)](https://guides.github.com/features/mastering-markdown/)
 
 ## Tools
 
