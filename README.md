@@ -12,6 +12,7 @@
 
 - Git - [Oh Shit, Git!?!](https://ohshitgit.com/)
 - Docker - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
+- npm - [npm CLI commands](https://docs.npmjs.com/cli-documentation/cli)
 - IDEA - [IntelliJ Keymap](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
 
 ## JavaScript
