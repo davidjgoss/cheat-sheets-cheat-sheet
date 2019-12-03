@@ -9,6 +9,7 @@
 
 ## Tools
 
+- Git - [Oh Shit, Git!?!](https://ohshitgit.com/)
 - Docker - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
 
 ## JavaScript
