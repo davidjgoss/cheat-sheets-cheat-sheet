@@ -24,3 +24,7 @@
 ## CSS
 
 - Flexbox - [A Complete Guide to Flexbox (CSS-Tricks)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+## HTTP
+
+- Status - [List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
