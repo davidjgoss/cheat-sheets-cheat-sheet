@@ -16,6 +16,7 @@
 ## JavaScript
 
 - JSON Schema - [Understanding JSON Schema](https://json-schema.org/understanding-json-schema/index.html)
+- RxJS - [Operator Decision Tree](https://rxjs-dev.firebaseapp.com/operator-decision-tree)
 
 ## CSS
 
