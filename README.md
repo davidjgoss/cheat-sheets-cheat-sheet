@@ -24,6 +24,7 @@
 ## CSS
 
 - Flexbox - [A Complete Guide to Flexbox (CSS-Tricks)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- Centering - [Centering in CSS](https://ishadeed.com/article/learn-css-centering/)
 
 ## HTTP
 
