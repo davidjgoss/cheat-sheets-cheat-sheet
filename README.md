@@ -10,7 +10,9 @@
 
 ## Tools
 
-- Git - [Oh Shit, Git!?!](https://ohshitgit.com/)
+- Git
+  - [Oh Shit, Git!?!](https://ohshitgit.com/)
+  - [Renaming the default branch from `master`](https://github.com/github/renaming)
 - Docker - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
 - Maven - [Lifecycle Reference](https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html#Lifecycle_Reference)
 - npm - [npm CLI commands](https://docs.npmjs.com/cli-documentation/cli)
