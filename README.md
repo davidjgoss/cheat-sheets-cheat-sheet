@@ -25,6 +25,7 @@
 - TypeScript
   - [TypeScript Cheat Sheets](https://www.typescriptlang.org/cheatsheets)
   - [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)
+  - [Node Target Mapping](https://github.com/microsoft/TypeScript/wiki/Node-Target-Mapping)
 
 ## CSS
 
