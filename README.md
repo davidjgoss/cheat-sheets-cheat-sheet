@@ -22,6 +22,8 @@
 
 - JSON Schema - [Understanding JSON Schema](https://json-schema.org/understanding-json-schema/index.html)
 - RxJS - [Operator Decision Tree](https://rxjs-dev.firebaseapp.com/operator-decision-tree)
+- React
+  - [React Libraries for 2025](https://www.robinwieruch.de/react-libraries/)
 - TypeScript
   - [TypeScript Cheat Sheets](https://www.typescriptlang.org/cheatsheets)
   - [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)
